@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Angular-Calendar/Calendar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Angular-Calendar/angular-api-backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Angular-Calendar/syncfusion-angular-calendar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Calendar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular-api-backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/syncfusion-angular-calendar" vcs="Git" />
+  </component>
+</project>
